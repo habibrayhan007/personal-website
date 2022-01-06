@@ -19,6 +19,7 @@ p{
     padding-left: 5%;
     padding-right: 5%;
     display: flex;
+    margin-bottom: 80px;
 }
 
 .half-width{
@@ -64,7 +65,7 @@ p{
     width: 300px; 
     padding-bottom: 20px;
     margin-top: 10px;
-    margin-left: 70px;
+    margin-left: 60px;
 }
 
 .mission-image{
