@@ -24,6 +24,11 @@ p{
     padding-left: 5%;
     padding-right: 5%;
 }
+.stick{
+    background-color: red;
+    height: 50px;
+    width: 5px;
+}
 .stay-focus-title{
     padding-top: 80px;
 }
@@ -98,6 +103,34 @@ p{
     text-decoration: none;
 }
 
+.msg{
+    text-align: center;
+    font-size: 36px;
+    
+}
+.contact{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.container-form {
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+  
 .footer{
     text-align: center;
     background-color: black;
